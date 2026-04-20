@@ -16,6 +16,9 @@ public:
 }; //batas class
 
 int main() {
+    Mahasiswa mhs1;
+    mhs1.nim = 12345;
 
+    return 0;
 }
 
